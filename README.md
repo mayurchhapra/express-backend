@@ -1,1 +1,1 @@
-# ArchCademy
+# Template
